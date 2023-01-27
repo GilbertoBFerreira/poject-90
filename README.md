@@ -1,5 +1,5 @@
 # make file
-```make```
+Run ```make``` in bash
 
 # exec with params
-```./exec ./entrada/users.csv```
+Run ```./exec ./entrada/users.csv``` in bash
